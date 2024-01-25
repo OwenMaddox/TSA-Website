@@ -2,6 +2,25 @@
   text-align: center;
 }
 
+/* .colors {
+  color: #ffa836; gold
+  color: #90b494; green
+  color: #343434; gray
+} */
+
+.shadow {
+  box-shadow: 5px 5px #343434;
+}
+.Navbarbg {
+  background-color: #343434;
+  color: white;
+  text-decoration: none;
+}
+.Navbarbg:hover {
+  background-color: #343434;
+  color: rgb(218, 218, 218);
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
