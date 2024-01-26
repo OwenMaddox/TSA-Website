@@ -1,3 +1,5 @@
+import Card from "./components/Card";
+
 function Main() {
   return (
     <div>
@@ -9,7 +11,7 @@ function Main() {
           </div>
           <div class="col">
             <img
-              className="solarPanelImg"
+              className="solarPanelImg bgblue"
               src="https://www.igfmining.org/wp-content/uploads/2022/10/header-16.png"
               alt="Solar Panels"
             />
@@ -31,6 +33,29 @@ function Main() {
               sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
           </div>
+        </div>
+      </div>
+
+      <div class="container marginTop text-center">
+        <div class="row">
+          <div class="col">
+            <div className="shadow">
+              <div class="container text-center">
+                <div class="row">
+                  <div class="col">
+                    <img
+                      className="cardImg"
+                      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTohe9BdOWT6zkMxait3ngsCFEb1Oz_50qPQ:https://pic.onlinewebfonts.com/svg/img_230237.svg&usqp=CAU"
+                      alt="leafs"
+                    />
+                  </div>
+                  <div class="col">ColumnColumnColumnn</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">sfsd</div>
+          <div class="col">sdfs</div>
         </div>
       </div>
     </div>

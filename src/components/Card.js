@@ -1,4 +1,4 @@
 function Card() {
-  <div className="shadow"></div>;
+  <div></div>;
 }
 export default Card;

@@ -11,7 +11,9 @@ body {
   color: #343434; gray
   color: rgb(0, 30, 65) blue
 } */
-
+.cardImg {
+  width: 20%;
+}
 .solarPanelImg {
   width: 100%;
 }
