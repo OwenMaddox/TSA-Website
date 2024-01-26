@@ -2,9 +2,10 @@ import { Link, Outlet } from "react-router-dom";
 
 function Navbar() {
   return (
-    <nav class="navbar navbar-expand-lg  Navbarbg">
+    <nav class="navbar navbar-expand-lg h5 Navbarbg">
       <div class="container-fluid">
-        <div class="navbar-brand Navbarbg">Green Energy</div>
+        <div className="navHeight"></div>
+        <div class="navbar-brand Navbarbg title align-middle">Green Energy</div>
         <button
           class="navbar-toggler"
           type="button"
@@ -20,14 +21,14 @@ function Navbar() {
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
               <div class="nav-link  Navbarbg" aria-current="page">
-                <Link class="Navbarbg" to="/">
+                <Link class="Navbarbg align-middle subTitle" to="/">
                   Home
                 </Link>
               </div>
             </li>
             <li class="nav-item">
               <div class="nav-link  Navbarbg" aria-current="page">
-                <Link class="Navbarbg" to="/sources">
+                <Link class="Navbarbg align-middle subTitle" to="/sources">
                   Sources
                 </Link>
               </div>

@@ -1,3 +1,6 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .App {
   text-align: center;
 }
@@ -6,10 +9,37 @@
   color: #ffa836; gold
   color: #90b494; green
   color: #343434; gray
+  color: rgb(0, 30, 65) blue
 } */
 
+.solarPanelImg {
+  width: 100%;
+}
+.marginLarge {
+  margin-top: 20%;
+}
+.marginTop {
+  margin-top: 10px;
+}
+.oswaldfont {
+  font-family: "Oswald", sans-serif;
+}
+.title {
+  font-size: 33px;
+  font-weight: 700;
+}
+.subTitle {
+  font-size: 20px;
+  font-weight: 700;
+}
+.bgblue {
+  background-color: rgb(0, 30, 65);
+}
+.txtblue {
+  color: rgb(0, 30, 65);
+}
 .shadow {
-  box-shadow: 5px 5px #343434;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .Navbarbg {
   background-color: #343434;
@@ -19,6 +49,9 @@
 .Navbarbg:hover {
   background-color: #343434;
   color: rgb(218, 218, 218);
+}
+.navHeight {
+  height: 80px;
 }
 
 .App-logo {
