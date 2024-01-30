@@ -1,9 +1,9 @@
 function Card(props) {
   return (
-    <div className="shadow p-3 mb-5 cardbg bg-secondary">
-      <div class="container text-center">
-        <div class="row">
-          <div class="col">
+    <div className="shadow p-3 mb-5 cardbg ">
+      <div class="container text-center ">
+        <div class="row ">
+          <div class="col ">
             <h1 className="title  fs-1">
               <svg
                 xmlns="http://www.w3.org/2000/svg"

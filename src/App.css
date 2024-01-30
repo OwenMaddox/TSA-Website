@@ -25,9 +25,21 @@ body {
 .itemSpacing {
   margin-top: 100px;
 }
+.SourceCard {
+  background-color: #6c757d;
+  transition: background-color 1s;
+}
+.SourceCard:hover {
+  background-color: #565758;
+}
 .cardbg {
-  background-color: rgb(238, 238, 238);
+  background-color: #6c757d;
   border-radius: 5px;
+  height: 200px;
+  transition: background-color 1s;
+}
+.cardbg:hover {
+  background-color: rgb(59, 100, 29);
 }
 .solarPanelImg {
   width: 100%;
