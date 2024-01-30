@@ -2,7 +2,7 @@ import { Link, Outlet } from "react-router-dom";
 
 function Navbar() {
   return (
-    <nav class="navbar navbar-expand-lg h5 Navbarbg">
+    <nav class="navbar navbar-expand-lg h5 Navbarbg shadow sticky-top">
       <div class="container-fluid">
         <div className="navHeight"></div>
         <div class="navbar-brand Navbarbg title align-middle">Green Energy</div>

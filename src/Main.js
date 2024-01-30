@@ -1,17 +1,18 @@
-import Card from "./Components/Card";
+import Card from "./components/Card";
+import Headers from "./components/Headers";
 
 function Main() {
   return (
-    <div>
+    <div className="">
       <div class="text-center shadow">
         <div class="row marginTop">
-          <div class="col bgblue text-white oswaldfont">
+          <div class="col bg-secondary text-white oswaldfont borderRadiusSm">
             <h1 className="title marginLarge fs-1">Green energy and such</h1>
-            <div className="subTitle fs-4">Lorem ipsum dolor sit amet</div>
+            <div className="subTitle fs-4">UHH... YEAH</div>
           </div>
           <div class="col">
             <img
-              className="solarPanelImg bgblue"
+              className="solarPanelImg bgblue borderRadiusSm"
               src="https://www.igfmining.org/wp-content/uploads/2022/10/header-16.png"
               alt="Solar Panels"
             />
@@ -19,24 +20,24 @@ function Main() {
         </div>
       </div>
 
-      <div class="container text-center itemSpacing shadow">
+      <div class="container text-center itemSpacing ">
         <div class="row ">
-          <div class="col oswaldfont txtblue">
-            <h1 className="title  fs-1">Green energy and such</h1>
-            <div className="subTitle fs-4">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          <div class="col oswaldfont text-white">
+            <Headers
+              title="Green energy and such"
+              description=" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
               enim ad minim veniam, quis nostrud exercitation ullamco laboris
               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
               reprehenderit in voluptate velit esse cillum dolore eu fugiat
               nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
+              sunt in culpa qui officia deserunt mollit anim id est laborum."
+            ></Headers>
           </div>
         </div>
       </div>
 
-      <div class="container itemSpacing text-center">
+      <div class="container itemSpacing text-center text-white">
         <div class="row">
           <div class="col">
             <Card

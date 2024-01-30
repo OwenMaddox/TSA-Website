@@ -1,13 +1,18 @@
-import Card from "../Components/Card";
+import Card from "../components/Card";
 
 function Sources() {
   return (
     <div>
       <h1>Sources</h1>
 
-      <div class="container text-center shadow">
-        <div class="row">
-          <div class="col">hello</div>
+      <div class="container text-center itemSpacing ">
+        <div class="row ">
+          <div class="col oswaldfont text-white">
+            <Card
+              title="Really Great Source"
+              description="http://Irrelevant source/sources"
+            ></Card>
+          </div>
         </div>
       </div>
     </div>
