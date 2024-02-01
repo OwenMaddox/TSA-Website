@@ -1,4 +1,5 @@
 import "./CardFlipper.css";
+import { Link } from "react-router-dom";
 function Card(props) {
   return (
     <div className="flip-card">
@@ -25,9 +26,14 @@ function Card(props) {
             <h1 className="fs-6">{props.description}</h1>
           </div>
         </div>
+
         <div className="flip-card-back cardbg shadow">
-          <h1 className="title fs-3">{props.backTitle}</h1>
-          <p>{props.backDescription}</p>
+          <Link to={props.link} className="cardtxt filler">
+            <div className="filler">
+              <h1 className="title fs-3 cardtxt">{props.backTitle}</h1>
+              <p className="cardtxt">{props.backDescription}</p>
+            </div>
+          </Link>
         </div>
       </div>
     </div>

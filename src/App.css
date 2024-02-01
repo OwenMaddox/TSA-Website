@@ -37,7 +37,10 @@ body {
   border-radius: 5px;
   height: 200px;
 }
-
+.cardtxt {
+  color: #ffffff;
+  text-decoration: none;
+}
 .solarPanelImg {
   width: 100%;
 }
