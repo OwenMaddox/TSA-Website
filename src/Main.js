@@ -1,26 +1,26 @@
 import Card from "./modules/Card";
 import Headers from "./modules/Headers";
+import solar from "./img/solarpanelangled.png";
 
 function Main() {
   return (
     <div className="">
       <div class="text-center shadow">
         <div class="row marginTop">
-          <div class="col bg-secondary text-white oswaldfont borderRadiusSm">
-            <h1 className="title marginLarge fs-1">Green energy and such</h1>
-            <div className="subTitle fs-4">UHH... YEAH</div>
+          <div class="oswaldfont">
+            <h1 className="overlaytxt">Green energy and such</h1>
           </div>
           <div class="col">
             <img
               className="solarPanelImg bgblue borderRadiusSm"
-              src="https://www.igfmining.org/wp-content/uploads/2022/10/header-16.png"
+              src={solar}
               alt="Solar Panels"
             />
           </div>
         </div>
       </div>
 
-      <div class="container text-center itemSpacing ">
+      <div class="container text-center imgSpacing ">
         <div class="row ">
           <div class="col oswaldfont text-white">
             <Headers

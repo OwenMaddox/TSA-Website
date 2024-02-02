@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
-    <nav class="navbar navbar-expand-lg h5 Navbarbg shadow sticky-top">
-      <div class="container-fluid">
+    <nav class="navbar navbar-expand-lg h5 Navbarbg">
+      <div class="container-fluid align-middle">
         <div className="navHeight"></div>
         <Link to="/" class="navbar-brand Navbarbg title align-middle">
           Green Energy
