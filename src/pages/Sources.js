@@ -15,10 +15,6 @@ function Sources() {
             title="Really Great Source"
             description="http://Irrelevant source/sources"
           ></SourceFlippy>
-          <SourceFlippy
-            title="Really Great Source"
-            description="http://Irrelevant source/sources"
-          ></SourceFlippy>
         </div>
       </div>
     </div>

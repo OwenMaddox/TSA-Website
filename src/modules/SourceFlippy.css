@@ -1,7 +1,12 @@
 .flip-source {
+  height: 100px;
   perspective: 1000px;
 }
-
+.sourcebg {
+  background-color: #6c757d;
+  border-radius: 5px;
+  height: 100px;
+}
 .flip-source-inner {
   position: relative;
   width: 100%;
