@@ -1,4 +1,4 @@
-import SourceCard from "../modules/SourceCard";
+import SourceFlippy from "../modules/SourceFlippy";
 
 function Sources() {
   return (
@@ -11,14 +11,14 @@ function Sources() {
 
       <div class="container text-center itemSpacing ">
         <div class="oswaldfont text-white">
-          <SourceCard
+          <SourceFlippy
             title="Really Great Source"
             description="http://Irrelevant source/sources"
-          ></SourceCard>
-          <SourceCard
+          ></SourceFlippy>
+          <SourceFlippy
             title="Really Great Source"
             description="http://Irrelevant source/sources"
-          ></SourceCard>
+          ></SourceFlippy>
         </div>
       </div>
     </div>
