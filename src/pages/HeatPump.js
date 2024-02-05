@@ -1,7 +1,9 @@
 import Headers from "../modules/Headers";
-function HeatPump() {
+import Navbar from "../modules/Navbar";
+function HeatPump(props) {
   return (
     <div className="">
+      <Navbar className={props.navbg}></Navbar>
       <div class="container text-center itemSpacing ">
         <div class="row ">
           <div class="col oswaldfont text-white">

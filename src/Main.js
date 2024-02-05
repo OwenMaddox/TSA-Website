@@ -1,10 +1,49 @@
 import Card from "./modules/Card";
 import Headers from "./modules/Headers";
 import solar from "./img/solarpanelangled.png";
-
+import Navbar from "./modules/Navbar";
+import { Link } from "react-router-dom";
 function Main() {
   return (
     <div className="">
+      <nav class="navbar navbar-expand-lg h5 mainNavbg ">
+        <div class="container-fluid align-middle">
+          <div className="navHeight"></div>
+          <Link to="/" class="navbar-brand mainNavbg title align-middle">
+            Green Energy
+          </Link>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <div class="nav-link  mainNavbg" aria-current="page">
+                  <Link class="mainNavbg align-middle subTitle" to="/">
+                    Home
+                  </Link>
+                </div>
+              </li>
+              <li class="nav-item">
+                <div class="nav-link  mainNavbg" aria-current="page">
+                  <Link class="mainNavbg align-middle subTitle" to="/sources">
+                    Sources
+                  </Link>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
       <div class="text-center shadow">
         <div class="row marginTop">
           <div class="oswaldfont">

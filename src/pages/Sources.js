@@ -1,8 +1,9 @@
 import SourceFlippy from "../modules/SourceFlippy";
-
+import Navbar from "../modules/Navbar";
 function Sources() {
   return (
     <div>
+      <Navbar></Navbar>
       <div class="container text-center  margin-top">
         <div class="oswaldfont margin-top">
           <h1>Sources</h1>

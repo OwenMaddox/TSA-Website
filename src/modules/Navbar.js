@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 
-function Navbar() {
+function Navbar(props) {
   return (
-    <nav class="navbar navbar-expand-lg h5 Navbarbg">
+    <nav class="navbar navbar-expand-lg h5 Navbarbg shadow">
       <div class="container-fluid align-middle">
         <div className="navHeight"></div>
         <Link to="/" class="navbar-brand Navbarbg title align-middle">
