@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Navbar(props) {
   return (
-    <nav class="navbar navbar-expand-lg h5 Navbarbg shadow">
+    <nav class="navbar navbar-expand-lg shadow h5 Navbarbg">
       <div class="container-fluid align-middle">
         <div className="navHeight"></div>
         <Link to="/" class="navbar-brand Navbarbg title align-middle">

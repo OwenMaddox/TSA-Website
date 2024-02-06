@@ -14,7 +14,7 @@ function Sources() {
         <div class="oswaldfont text-white">
           <SourceFlippy
             title="Really Great Source"
-            description="http://Irrelevant source/sources"
+            description="http://theuhbestsource/sources"
           ></SourceFlippy>
         </div>
       </div>

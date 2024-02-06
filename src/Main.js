@@ -61,16 +61,19 @@ function Main() {
       <div class="container text-center imgSpacing ">
         <div class="row ">
           <div class="col oswaldfont text-white">
-            <Headers
-              title="Green energy and such"
-              description=" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum."
-            ></Headers>
+            <div className="container shadow p-3 bglightgray mb-5 borderRadiusSm">
+              <h1 className="title fs-1">Green energy and such</h1>
+              <div className="col subTitle fs-4">
+                {" "}
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+                sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </div>
+            </div>
           </div>
         </div>
       </div>
