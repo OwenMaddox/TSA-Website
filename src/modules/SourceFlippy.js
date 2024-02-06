@@ -8,7 +8,7 @@ function SourceFlippy(props) {
           <div className="shadow p-3 mb-5 sourcebg ">
             <div class="container text-center row">
               <div class="col ">
-                <div className="subTitle fs-5">{props.title}</div>
+                <div className="title fs-1">{props.title}</div>
               </div>
             </div>
           </div>
@@ -16,8 +16,8 @@ function SourceFlippy(props) {
 
         <div className="flip-source-back sourcebg shadow">
           <Link to={props.link} className="cardtxt filler">
-            <div className="filler">
-              <p className="cardtxt">{props.description}</p>
+            <div className="">
+              <p className="title fs-1">{props.description}</p>
             </div>
           </Link>
         </div>

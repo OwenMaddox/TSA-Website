@@ -3,7 +3,8 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: rgb(255, 255, 255);
 }
-.App {
+.App,
+.align {
   text-align: center;
 }
 
@@ -45,6 +46,7 @@ body {
   background-color: #6c757d;
   border-radius: 5px;
   height: 200px;
+  width: 100%;
 }
 .cardtxt {
   color: #ffffff;
@@ -57,6 +59,10 @@ body {
   right: 0px;
   height: 700px;
   z-index: -1;
+}
+.leftrightpadding {
+  padding-left: 20%;
+  padding-right: 20%;
 }
 .marginLarge {
   margin-top: 20%;
@@ -96,7 +102,7 @@ body {
   text-decoration: none;
   z-index: 1;
   text-align: center;
-  background-color: rgb(109, 173, 62);
+  background-color: rgb(0, 152, 190);
 }
 .Navbarbg:hover {
   color: rgb(80, 80, 80);

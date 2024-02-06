@@ -1,7 +1,6 @@
 import Card from "./modules/Card";
 import Headers from "./modules/Headers";
 import solar from "./img/solarpanelangled.png";
-import Navbar from "./modules/Navbar";
 import { Link } from "react-router-dom";
 function Main() {
   return (
