@@ -29,6 +29,9 @@ body {
   right: 60%;
   z-index: 1;
 }
+.heatpumpimg {
+  width: 80%;
+}
 .cardImg {
   width: 20%;
 }
@@ -102,7 +105,7 @@ body {
   text-decoration: none;
   z-index: 1;
   text-align: center;
-  background-color: rgb(27, 177, 47);
+  background-color: rgb(41, 212, 235);
 }
 .Navbarbg:hover {
   color: rgb(80, 80, 80);
