@@ -105,11 +105,11 @@ function Main() {
           <div class="col">
             <Card
               title="Air Conditioning"
-              description="Air Conditioning"
+              description="Air conditioning pulls air in from outside to cool the household down"
               class="bi bi-wind"
               d="M12.5 2A2.5 2.5 0 0 0 10 4.5a.5.5 0 0 1-1 0A3.5 3.5 0 1 1 12.5 8H.5a.5.5 0 0 1 0-1h12a2.5 2.5 0 0 0 0-5m-7 1a1 1 0 0 0-1 1 .5.5 0 0 1-1 0 2 2 0 1 1 2 2h-5a.5.5 0 0 1 0-1h5a1 1 0 0 0 0-2M0 9.5A.5.5 0 0 1 .5 9h10.042a3 3 0 1 1-3 3 .5.5 0 0 1 1 0 2 2 0 1 0 2-2H.5a.5.5 0 0 1-.5-.5"
               backTitle="Air Conditioning"
-              backDescription="uhh its very very good"
+              backDescription="Energy efficient air conditioning works by reducing the humidity and temperature of the household using less energy than the average unit"
               link="/air-conditioning"
             ></Card>
           </div>
