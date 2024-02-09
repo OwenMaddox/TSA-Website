@@ -12,7 +12,7 @@ function SolarPanel(props) {
             <div class="col oswaldfont text-white">
               <img
                 className=" borderRadiusSm ductsealingimg"
-                src=""
+                src="https://www.clean-energy-ideas.com/wp-content/uploads/2013/06/solar-panel-diagram.jpg"
                 alt="Solar Panels"
               ></img>
             </div>

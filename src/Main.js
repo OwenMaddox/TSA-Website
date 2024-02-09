@@ -38,6 +38,79 @@ function Main() {
                   </Link>
                 </div>
               </li>
+              <li class="nav-item dropdown mainNavbg align-middle subTitle">
+                <a
+                  class="nav-link dropdown-toggle"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Dropdown
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <div class="nav-link  mainNavbg" aria-current="page">
+                      <Link
+                        class="mainNavbg align-middle subTitle"
+                        to="/water-heater"
+                      >
+                        Water Heater
+                      </Link>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="nav-link  mainNavbg" aria-current="page">
+                      <Link
+                        class="mainNavbg align-middle subTitle"
+                        to="/duct-sealing"
+                      >
+                        Duct Sealing
+                      </Link>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="nav-link  mainNavbg" aria-current="page">
+                      <Link
+                        class="mainNavbg align-middle subTitle"
+                        to="/air-conditioning"
+                      >
+                        Air Conditioning
+                      </Link>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="nav-link  mainNavbg" aria-current="page">
+                      <Link
+                        class="mainNavbg align-middle subTitle"
+                        to="/heat-pump"
+                      >
+                        Heat Pump
+                      </Link>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="nav-link  mainNavbg" aria-current="page">
+                      <Link
+                        class="mainNavbg align-middle subTitle"
+                        to="/Fuel-cell"
+                      >
+                        Fuel Cell
+                      </Link>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="nav-link  mainNavbg" aria-current="page">
+                      <Link
+                        class="mainNavbg align-middle subTitle"
+                        to="/solar-panel"
+                      >
+                        Solar Panel
+                      </Link>
+                    </div>
+                  </li>
+                </ul>
+              </li>
             </ul>
           </div>
         </div>
