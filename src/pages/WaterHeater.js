@@ -5,27 +5,16 @@ function WaterHeater(props) {
   return (
     <div className="">
       <Navbar className={props.navbg}></Navbar>
-      <div class="container text-center itemSpacing ">
-        <div class="row ">
-          <div class="col oswaldfont ">
-            <Headers
-              className="bg-dark-subtle"
-              title="Heat Pumps"
-              description="Heat pumps transfer heat into and out of the home using the ground as both a heat source and a heat sink. Certain models of geothermal systems are available with two-speed compressors and variable fans for more comfort and energy savings. Relative to air-source heat pumps, they are quieter, last longer, need little maintenance, and do not depend on the temperature of the outside air."
-            ></Headers>
-          </div>
-        </div>
-      </div>
 
       <div className="container bg-dark-subtle borderRadiusSm shadow align itemSpacing">
-        <h1 className="title p-4">Geothermal Heating and Cooling</h1>
+        <h1 className="title p-4">Heat Pump Water Heater</h1>
         <div class="container text-center  ">
           <div class="row ">
             <div class="col oswaldfont text-white">
               <img
                 className="shadow borderRadiusSm"
-                src="https://rmi.org/wp-content/uploads/2023/03/dandelion-energy-heat-pump.png"
-                alt="Cooling vs Heating"
+                src=""
+                alt="Water Heater"
               ></img>
             </div>
           </div>
@@ -34,13 +23,11 @@ function WaterHeater(props) {
         <div class="container text-center marginTop pb-4">
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
-              Heat pumps are used to transfer heat into and out of the home
-              using the ground as both a heat source and a heat sink. Certain
-              models of geothermal systems are available with two-speed
-              compressors and variable fans for more comfort and energy savings.
-              Relative to air-source heat pumps, they are quieter, last longer,
-              need little maintenance, and do not depend on the temperature of
-              the outside air.
+              Heat pump water heaters are able to move existing heat from one
+              place to another instead of generating its own heat. This is 2-3
+              times more energy efficient than storage water heaters and a lower
+              operating cost as well. With this water heater switch a household
+              is able to save $300 to $500 on electric bills per year.
             </div>
           </div>
         </div>
@@ -48,12 +35,8 @@ function WaterHeater(props) {
         <div class="container marginTop pb-4">
           <div class="row">
             <div className="col"></div>
-            <div class="col-9 title text-start fs-5 te leftrightpadding marginTop">
-              <ul>
-                <li>Unit Cost: $3,000 - $6,000</li>
-                <li>Installation Cost: $6,000 - $20,000</li>
-                <li>Total Cost: $9,000 - $26,000</li>
-              </ul>
+            <div class="col-10 title fs-5 te leftrightpadding marginTop">
+              <ul>Unit and Installation Cost: $1,500 - $3,000</ul>
             </div>
             <div className="col"></div>
           </div>
@@ -61,6 +44,62 @@ function WaterHeater(props) {
 
         <h1 className="title p-4">Tax Credits</h1>
 
+        <div class="container text-center pb-4">
+          <div class="row">
+            <div class="col title fs-5 leftrightpadding ">
+              <ul>
+                <li>
+                  Between January 1, 2023, and December 31, 2032, 30% of however
+                  much you spent on the installation cost of the heat pump or a
+                  maximum amount of $2,000 will be credited.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="container bg-dark-subtle borderRadiusSm shadow align itemSpacing">
+        <h1 className="title p-4">Solar Water Heater</h1>
+        <div class="container text-center  ">
+          <div class="row ">
+            <div class="col oswaldfont text-white">
+              <img
+                className="shadow borderRadiusSm solarwaterheatimg"
+                src="https://www.energy.gov/sites/prod/files/active_closed_loop_solar_wa.gif"
+                alt="Water Heater"
+              ></img>
+            </div>
+          </div>
+        </div>
+
+        <div class="container text-center marginTop pb-4">
+          <div class="row">
+            <div class="col title fs-5  leftrightpadding marginTop">
+              Solar water heaters are able to use the heat from the sun to
+              provide hot water for a household. This is 50 percent more
+              effective than gas and electric water heaters. These can save
+              homeowners significantly on energy bills and are good for the
+              environment but are ultimately slower at heating water and run out
+              much quicker on average.
+            </div>
+          </div>
+        </div>
+
+        <div class="container marginTop pb-4">
+          <div class="row">
+            <div className="col"></div>
+            <div class="col-10 title fs-5 te leftrightpadding marginTop">
+              <ul>Unit and Installation Cost: $4,000 - $13,000</ul>
+              <ul className="fs-6">
+                (This metric is based off of the size of tank installed)
+              </ul>
+            </div>
+            <div className="col"></div>
+          </div>
+        </div>
+
+        <h1 className="title p-4">Tax Credits</h1>
         <div class="container text-center pb-4">
           <div class="row">
             <div class="col title fs-5 leftrightpadding ">
@@ -86,74 +125,10 @@ function WaterHeater(props) {
                   and before January 1, 2035
                 </li>
               </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div className="container bg-dark-subtle borderRadiusSm shadow align itemSpacing">
-        <h1 className="title p-4">Air Pump Heating and Cooling</h1>
-        <div class="container text-center  ">
-          <div class="row ">
-            <div class="col oswaldfont text-white">
-              <img
-                className="shadow borderRadiusSm heatpumpimg"
-                src="https://www.lozierheatingcooling.com/filesimages/heatPump.jpeg"
-                alt="Cooling vs Heating"
-              ></img>
-            </div>
-          </div>
-        </div>
-
-        <div class="container text-center marginTop pb-4">
-          <div class="row mt-5">
-            <h1 className="title">Ducted Air-Source Heat Pumps</h1>
-            <div class="col title fs-5  leftrightpadding ">
-              Ducted air-source heat pumps are able to reduce your heating
-              electricity use by 65% compared to heating from furnaces or
-              boilers. The high-efficiency heat pumps are able to dehumidify
-              better than the standard central air conditioners, resulting in
-              less energy usage and more cooling comfort in summer months.
-            </div>
-          </div>
-          <div class="row  mt-5">
-            <h1 className="title">Ductless Air-Source Heat Pumps</h1>
-            <div class="col title fs-5  leftrightpadding ">
-              For homes that do not have ducts there are ductless air-source
-              heat pumps available called mini-split heat pumps. These heat
-              pumps generate hot and cold water rather than air but still work
-              like an air-source heat pump.
-            </div>
-          </div>
-        </div>
-
-        <div class="container marginTop pb-4">
-          <div class="row">
-            <div className="col"></div>
-            <div class="col-9 title text-start fs-5 te leftrightpadding marginTop">
-              <ul>
-                <li>Unit Cost: $2,000 - $5,500</li>
-                <li>Installation Cost: $4,000 - $8,000</li>
-                <li>Total Cost: $6,000 - $13,500</li>
+              <ul className="fs-6">
+                (The credit is not available for expenses for swimming pools or
+                hot tubs. The water must be used in the household.)
               </ul>
-            </div>
-            <div className="col"></div>
-          </div>
-        </div>
-
-        <div class="container text-center pb-4">
-          <h1 className="title ">Tax Credits</h1>
-          <div class="row">
-            <div class="col title fs-5 leftrightpadding ">
-              <div>
-                Tax Credits you are able to claim after installing an air source
-                heat pump.
-              </div>
-              <div>
-                This is only between January 1, 2023, and December 31, 2032 30%
-                of however much you spent on the installation cost of the heat
-                pump or a maximum amount of $2,000 will be credited.
-              </div>
             </div>
           </div>
         </div>

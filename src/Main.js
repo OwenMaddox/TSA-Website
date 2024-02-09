@@ -83,22 +83,22 @@ function Main() {
           <div class="col">
             <Card
               title="Water Heater"
-              description="Water Heater"
+              description="There are two main types of water heaters. The first type is a heat pump water heater and the second is a solar water heater."
               class="bi bi-droplet-fill"
               d="M8 16a6 6 0 0 0 6-6c0-1.655-1.122-2.904-2.432-4.362C10.254 4.176 8.75 2.503 8 0c0 0-6 5.686-6 10a6 6 0 0 0 6 6M6.646 4.646l.708.708c-.29.29-1.128 1.311-1.907 2.87l-.894-.448c.82-1.641 1.717-2.753 2.093-3.13"
               backTitle="Water Heater"
-              backDescription="uhh its very very good"
+              backDescription="Heat pump water heaters get warmth from the air and use it to heat up the water. Solar water heaters use the sun’s heat to warm up stored water. "
               link="/water-heater"
             ></Card>
           </div>
           <div class="col">
             <Card
               title="Duct Sealing"
-              description="Duct Sealing"
+              description="Maintaining and upgrading home insulation and sealing is a large component for an efficient use of energy within a home."
               class="bi bi-funnel-fill"
               d="M1.5 1.5A.5.5 0 0 1 2 1h12a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.128.334L10 8.692V13.5a.5.5 0 0 1-.342.474l-3 1A.5.5 0 0 1 6 14.5V8.692L1.628 3.834A.5.5 0 0 1 1.5 3.5z"
               backTitle="Duct Sealing"
-              backDescription="uhh its very very good"
+              backDescription="Along with its energy saving benefits sealing household ducts helps to improve indoor air quality by reducing the risk of pollutants entering ducts and circulating through your home."
               link="/duct-sealing"
             ></Card>
           </div>
@@ -133,11 +133,11 @@ function Main() {
           <div class="col">
             <Card
               title="Fuel Cell"
-              description="Fuel Cell"
+              description="Hydrogen fuel cell technology is coverts hydrogen into electricity and heat"
               class="bi bi-lightning-charge-fill"
               d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09z"
               backTitle="Fuel Cell"
-              backDescription="uhh its very very good"
+              backDescription="Hydrogen Fuel cells are an efficient and cleaner means towards providing energy to a variety of applications than their alternatives"
               link="/fuel-cell"
             ></Card>
           </div>
@@ -145,11 +145,11 @@ function Main() {
           <div class="col">
             <Card
               title="Solar Panel"
-              description="Solar Panel"
+              description="Solar Panels are a very clean and renewable source of energy"
               class="bi bi-sun"
               d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6m0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8M8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0m0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13m8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5M3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8m10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0m-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0m9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707M4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708"
               backTitle="Solar Panel"
-              backDescription="uhh its very very good"
+              backDescription="Solar technologies convert sunlight into electrical energy either through photovoltaic (PV) panels or through mirrors that concentrate solar radiation."
               link="/solar-panel"
             ></Card>
           </div>
