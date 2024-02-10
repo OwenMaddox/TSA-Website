@@ -99,6 +99,9 @@ body {
 .shadow {
   filter: drop-shadow(0px 5px 5px #2c2c2c);
 }
+.navmargin {
+  margin-top: 2px;
+}
 .mainNavbg {
   color: #3b3b3b;
   text-decoration: none;

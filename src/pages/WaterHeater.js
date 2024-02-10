@@ -23,11 +23,13 @@ function WaterHeater(props) {
         <div class="container text-center marginTop pb-4">
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
-              Heat pump water heaters are able to move existing heat from one
-              place to another instead of generating its own heat. This is 2-3
-              times more energy efficient than storage water heaters and a lower
-              operating cost as well. With this water heater switch a household
-              is able to save $300 to $500 on electric bills per year.
+              A heat pump water heater has the ability to move the already
+              existing heat from one place to another, instead of generating its
+              own heat which uses more energy. This is 2-3 times more energy
+              efficient than the average household storage water heaters and
+              they operate at a lower cost as well. A water heater switch like
+              this is able to save a household $300 to $500 per year on electric
+              bills.
             </div>
           </div>
         </div>
@@ -76,12 +78,12 @@ function WaterHeater(props) {
         <div class="container text-center marginTop pb-4">
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
-              Solar water heaters are able to use the heat from the sun to
-              provide hot water for a household. This is 50 percent more
-              effective than gas and electric water heaters. These can save
-              homeowners significantly on energy bills and are good for the
-              environment but are ultimately slower at heating water and run out
-              much quicker on average.
+              A solar water heater is able to use the heat from the sun to
+              provide hot water for a household. This is ultimately 50 percent
+              more effective than the traditional household gas and electric
+              water heaters. These can save homeowners significantly on energy
+              bills and are good for the environment but are unfortunately
+              slower at heating water and it runs out much quicker on average.
             </div>
           </div>
         </div>

@@ -22,18 +22,16 @@ function DuctSealing(props) {
         <div class="container text-center marginTop pb-4">
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
-              Improperly sealed air ducts are a large contributor towards wasted
-              energy bills. If your home air ducts are improperly sealed or if
-              the insulation is improperly installed(or features inadequate
-              coverage), much of the air that is meant to be transported is
-              lost. Even properly designed air ducts can have a moderate loss of
-              air. It is for this reason that many newer air duct systems are
-              constructed within a conditioned space. If one room in particular
-              seems to be colder(or hotter) than others you may invest in
-              professionals to repair/reinsulate your air ducts. Also ensure
-              that no furniture, dust, or debris blocks the air duct registers.
-              Replacing Air ducts also prevents old ducts from harboring mold,
-              dust, and other contaminants.
+              One of the biggest contributors towards wasted energy bills is
+              improperly sealed air ducts. If a households air ducts are
+              improperly sealed or the insulation is improperly installed, much
+              of the air that is meant to be used is lost. Because of this many
+              newer air duct systems are constructed within a conditioned space.
+              If a specific room seems to be hotter or colder than others then
+              replacing the air ducts in the house may be the easiest and most
+              cost efficient choice. This also prevents the old ducts in the
+              household from releasing mold, dust, and contaminants into the air
+              of the house.
             </div>
           </div>
         </div>

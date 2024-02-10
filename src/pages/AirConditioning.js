@@ -23,10 +23,14 @@ function AirConditioning(props) {
         <div class="container text-center marginTop pb-4">
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
-              An air conditioner cools the home with an evaporator and releases
-              hot air outside with a condenser. Switching to high-efficiency air
-              conditioners and taking other actions to keep your home cool could
-              reduce energy use for air conditioning by 20% to 50%.
+              Most people can probably guess how an air conditioner works but
+              there are ways to reduce their energy usage so that they are
+              “greener” in a sense. Air conditioners work by cooling the home
+              using an evaporator and releasing the hot air outside of the
+              household with a condenser. By switching to a higher efficiency
+              air conditioner and keeping the temperature on the system at a
+              lower number than usual, a household could reduce their energy
+              usage by 20% to 50%.
             </div>
           </div>
         </div>

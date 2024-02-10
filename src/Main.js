@@ -9,7 +9,7 @@ function Main() {
         <div class="container-fluid align-middle">
           <div className="navHeight"></div>
           <Link to="/" class="navbar-brand mainNavbg title align-middle">
-            Green Energy
+            Clean Energy
           </Link>
           <button
             class="navbar-toggler"
@@ -38,16 +38,15 @@ function Main() {
                   </Link>
                 </div>
               </li>
-              <li class="nav-item dropdown mainNavbg align-middle subTitle">
-                <a
+              <li class="nav-item dropdown mainNavbg align-middle subTitle navmargin">
+                <div
                   class="nav-link dropdown-toggle"
-                  href="#"
                   role="button"
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
                 >
-                  Dropdown
-                </a>
+                  Pages
+                </div>
                 <ul class="dropdown-menu">
                   <li>
                     <div class="nav-link  mainNavbg" aria-current="page">
@@ -119,7 +118,7 @@ function Main() {
       <div class="text-center shadow">
         <div class="row marginTop">
           <div class="oswaldfont">
-            <h1 className="overlaytxt">Green energy and such</h1>
+            <h1 className="overlaytxt">Clean Energy Home Guide</h1>
           </div>
           <div class="col">
             <img
@@ -135,16 +134,16 @@ function Main() {
         <div class="row ">
           <div class="col oswaldfont text-white">
             <div className="container shadow p-3 bglightgray mb-5 borderRadiusSm">
-              <h1 className="title fs-1">Green energy and such</h1>
-              <div className="col subTitle fs-4">
-                {" "}
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+              <h1 className="title fs-1">The Clean Energy Home Guide</h1>
+              <div className="col  fs-4">
+                Whether you're an eco-enthusiast or just beginning to walk the
+                path of sustainability, you can find comprehensive resources
+                here to navigate the world of clean energy solutions for your
+                household. We also provide transparent breakdowns, highlight
+                potential tax incentives, and help you make informed decisions
+                that benefit both the environment and your budget. But we're
+                here to fill you with practical knowledge and actionable steps
+                towards a cleaner, greener home.
               </div>
             </div>
           </div>

@@ -22,11 +22,13 @@ function SolarPanel(props) {
         <div class="container text-center marginTop pb-4">
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
-              Traditional building components that primarily serve a roofing or
-              structural function generally don't qualify. For example, roof
-              trusses and traditional shingles that support solar panels don't
-              qualify, but solar roofing tiles and solar shingles do because
-              they generate clean energy.
+              Solar panels are a good way to reduce the amount of energy a
+              household uses. But there are many components that have to be
+              taken into consideration before getting and installing solar
+              panels. The biggest being roofing. Traditional shingles, roofing,
+              and roof trusses don’t qualify for the solar panel rebate,
+              however, solar roofing tiles and solar shingles do apply because
+              they are able to generate clean energy for the household.
             </div>
           </div>
         </div>

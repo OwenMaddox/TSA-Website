@@ -22,14 +22,13 @@ function FuelCell(props) {
         <div class="container text-center marginTop pb-4">
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
-              A fuel cell uses the chemical energy of hydrogen or other fuels to
-              cleanly and efficiently produce electricity. If hydrogen is the
-              fuel, the only products are electricity, water, and heat. Fuel
-              cells are unique in terms of the variety of their potential
-              applications; they can use a wide range of fuels and feedstocks
-              and can provide power for systems as large as a utility power
-              station and as small as a laptop computer. Fuel cells have far
-              less or even zero emissions compared to combustion engines.
+              A household fuel cell works by using hydrogen to cleanly and
+              efficiently generate electricity. Because these fuel cells only
+              use hydrogen the only products that are created in the main
+              process are electricity, water, and heat. These fuel cells can be
+              used for a variety of situations and can be used to power many
+              things. Another positive is that they have almost none or no
+              emissions unlike their combustion engine counterparts.
             </div>
           </div>
         </div>
@@ -39,8 +38,9 @@ function FuelCell(props) {
             <div className="col"></div>
             <div class="col-10 title  fs-5 te leftrightpadding marginTop">
               <ul>
-                Hydrogen Fuel Cells are priced around $13-$16 per kilogram.
-                (FORD FIND NEW INFO)
+                The installation of a household hydrogen fuel cell is usually
+                around $30,000 to $100,000 and the hydrogen gas is around
+                $13-$16 per kilogram.
               </ul>
             </div>
             <div className="col"></div>

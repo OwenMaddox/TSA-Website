@@ -33,13 +33,15 @@ function HeatPump(props) {
         <div class="container text-center marginTop pb-4">
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
-              Heat pumps are used to transfer heat into and out of the home
-              using the ground as both a heat source and a heat sink. Certain
-              models of geothermal systems are available with two-speed
-              compressors and variable fans for more comfort and energy savings.
-              Relative to air-source heat pumps, they are quieter, last longer,
-              need little maintenance, and do not depend on the temperature of
-              the outside air.
+              A geothermal heat pump is used to transfer heat into and out of a
+              household by using the ground as a heat source and a heat sink.
+              This means that heat is traveling through the ground from a high
+              temperature place to a low one or vice versa. Some models of these
+              geothermal heat pump systems have additions built for even more
+              comfort and energy savings for the owner. A positive to buying a
+              geothermal system over an air-source system is that they are
+              quieter, need little maintenance, and they don’t depend on the
+              weather or temperature outside.
             </div>
           </div>
         </div>
@@ -108,20 +110,25 @@ function HeatPump(props) {
           <div class="row mt-5">
             <h1 className="title">Ducted Air-Source Heat Pumps</h1>
             <div class="col title fs-5  leftrightpadding ">
-              Ducted air-source heat pumps are able to reduce your heating
-              electricity use by 65% compared to heating from furnaces or
-              boilers. The high-efficiency heat pumps are able to dehumidify
-              better than the standard central air conditioners, resulting in
-              less energy usage and more cooling comfort in summer months.
+              With a ducted air-source heat pump or heating system a household
+              is able to reduce the amount of electricity used for heating by
+              65% compared to the average heating of a house furnace or boiler.
+              These models of heat pumps are highly efficient and can dehumidify
+              a households air better than standard central air conditioners.
+              This means that the amount of energy being used by a ducted heat
+              pump uses less energy and allows for more cooling in the hotter
+              months of the year.
             </div>
           </div>
           <div class="row  mt-5">
             <h1 className="title">Ductless Air-Source Heat Pumps</h1>
             <div class="col title fs-5  leftrightpadding ">
-              For homes that do not have ducts there are ductless air-source
-              heat pumps available called mini-split heat pumps. These heat
-              pumps generate hot and cold water rather than air but still work
-              like an air-source heat pump.
+              If the household trying to install an air-source heat pump does
+              not have the necessary ducts to install the unit there is another
+              option, the ductless heat pump. These air-source pumps are
+              sometimes called mini-split heat pumps and they are able to hot
+              and cold water in its system instead of using the air around it.
+              However it still works like an air-source heat pump.
             </div>
           </div>
         </div>

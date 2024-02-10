@@ -35,73 +35,54 @@ function Navbar(props) {
                 </Link>
               </div>
             </li>
-            <li class="nav-item dropdown mainNavbg align-middle subTitle">
-              <a
-                class="nav-link dropdown-toggle"
-                href="#"
+            <li class="nav-item dropdown subTitle navmargin">
+              <div
+                class="nav-link dropdown-toggle "
                 role="button"
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
-                Dropdown
-              </a>
+                Pages
+              </div>
               <ul class="dropdown-menu">
                 <li>
                   <div class="nav-link  mainNavbg" aria-current="page">
-                    <Link
-                      class="mainNavbg align-middle subTitle"
-                      to="/water-heater"
-                    >
+                    <Link class="mainNavbg " to="/water-heater">
                       Water Heater
                     </Link>
                   </div>
                 </li>
                 <li>
                   <div class="nav-link  mainNavbg" aria-current="page">
-                    <Link
-                      class="mainNavbg align-middle subTitle"
-                      to="/duct-sealing"
-                    >
+                    <Link class="mainNavbg  " to="/duct-sealing">
                       Duct Sealing
                     </Link>
                   </div>
                 </li>
                 <li>
                   <div class="nav-link  mainNavbg" aria-current="page">
-                    <Link
-                      class="mainNavbg align-middle subTitle"
-                      to="/air-conditioning"
-                    >
+                    <Link class="mainNavbg  " to="/air-conditioning">
                       Air Conditioning
                     </Link>
                   </div>
                 </li>
                 <li>
                   <div class="nav-link  mainNavbg" aria-current="page">
-                    <Link
-                      class="mainNavbg align-middle subTitle"
-                      to="/heat-pump"
-                    >
+                    <Link class="mainNavbg " to="/heat-pump">
                       Heat Pump
                     </Link>
                   </div>
                 </li>
                 <li>
                   <div class="nav-link  mainNavbg" aria-current="page">
-                    <Link
-                      class="mainNavbg align-middle subTitle"
-                      to="/Fuel-cell"
-                    >
+                    <Link class="mainNavbg  " to="/Fuel-cell">
                       Fuel Cell
                     </Link>
                   </div>
                 </li>
                 <li>
-                  <div class="nav-link  mainNavbg" aria-current="page">
-                    <Link
-                      class="mainNavbg align-middle subTitle"
-                      to="/solar-panel"
-                    >
+                  <div class="nav-link mainNavbg" aria-current="page">
+                    <Link class="mainNavbg  " to="/solar-panel">
                       Solar Panel
                     </Link>
                   </div>
