@@ -7,13 +7,13 @@ function WaterHeater(props) {
       <Navbar className={props.navbg}></Navbar>
 
       <div className="container bg-dark-subtle borderRadiusSm shadow align itemSpacing">
-        <h1 className="title p-4">Heat Pump Water Heater</h1>
+        <h1 className="title p-4">Hot Water Heater Pump</h1>
         <div class="container text-center  ">
           <div class="row ">
             <div class="col oswaldfont text-white">
               <img
                 className="shadow borderRadiusSm"
-                src=""
+                src="https://thumbs.dreamstime.com/b/heat-pump-system-solar-panels-water-heating-outline-diagram-heat-pump-system-solar-panels-water-heating-outline-262837401.jpg"
                 alt="Water Heater"
               ></img>
             </div>

@@ -118,7 +118,10 @@ function Sources() {
 
       <div class="container text-center itemSpacing ">
         <div class="oswaldfont text-white">
-          <SourceFlippy title="" description=""></SourceFlippy>
+          <SourceFlippy
+            title="Hot Water Heater Pump Image"
+            description="https://thumbs.dreamstime.com/b/heat-pump-system-solar-panels-water-heating-outline-diagram-heat-pump-system-solar-panels-water-heating-outline-262837401.jpg"
+          ></SourceFlippy>
         </div>
       </div>
     </div>
