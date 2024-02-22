@@ -24,13 +24,13 @@ function DuctSealing(props) {
             <div class="col title fs-5  leftrightpadding marginTop">
               One of the biggest contributors towards wasted energy bills is
               improperly sealed air ducts. If a households air ducts are
-              improperly sealed or the insulation is improperly installed, much
-              of the air that is meant to be used is lost. Because of this many
+              sealed incorrectly or the insulation is improperly installed, much
+              of the air that is intended to be utilized is lost. Due of this, many
               newer air duct systems are constructed within a conditioned space.
-              If a specific room seems to be hotter or colder than others then
-              replacing the air ducts in the house may be the easiest and most
+              If a specific room seems to be hotter or colder than others, then
+              replacing the air ducts in the house may be a wise and
               cost efficient choice. This also prevents the old ducts in the
-              household from releasing mold, dust, and contaminants into the air
+              household from releasing mold, dust, and other contaminants into the air
               of the house.
             </div>
           </div>
@@ -42,7 +42,7 @@ function DuctSealing(props) {
             <div class="col-10 title  fs-5 te leftrightpadding marginTop">
               <ul>
                 Air duct replacement price varies depending on multiple factors
-                such as location. Material and house size. Generally, the cost
+                such as location, material and house size. Generally, the cost
                 sits at around $12-25 per square foot.
               </ul>
             </div>

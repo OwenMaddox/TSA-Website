@@ -197,7 +197,7 @@ function Main() {
               class="bi bi-house-door-fill"
               d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5"
               backTitle="Heat Pump"
-              backDescription="There are two types of heat pumps. The first type is a geothermal heat pump, and the second is a air source heat pump"
+              backDescription="There are two variations of heat pumps. The first type is a geothermal heat pump, and the second is a air source heat pump."
               link="/heat-pump"
             ></Card>
           </div>
@@ -205,11 +205,11 @@ function Main() {
           <div class="col">
             <Card
               title="Fuel Cell"
-              description="Hydrogen fuel cell technology is coverts hydrogen into electricity and heat"
+              description="Hydrogen fuel cell technology entails the conversion of hydrogen into electricity and heat."
               class="bi bi-lightning-charge-fill"
               d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09z"
               backTitle="Fuel Cell"
-              backDescription="Hydrogen Fuel cells are an efficient and cleaner means towards providing energy to a variety of applications than their alternatives"
+              backDescription="Hydrogen Fuel cells are an efficient and cleaner means towards providing energy to a variety of applications than their alternatives."
               link="/fuel-cell"
             ></Card>
           </div>
@@ -217,7 +217,7 @@ function Main() {
           <div class="col">
             <Card
               title="Solar Panel"
-              description="Solar Panels are a very clean and renewable source of energy"
+              description="Solar Panels are a very clean and renewable source of energy."
               class="bi bi-sun"
               d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6m0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8M8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0m0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13m8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5M3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8m10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0m-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0m9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707M4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708"
               backTitle="Solar Panel"
