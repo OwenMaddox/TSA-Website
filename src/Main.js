@@ -38,9 +38,9 @@ function Main() {
                   </Link>
                 </div>
               </li>
-              <li class="nav-item dropdown mainNavbg align-middle subTitle navmargin">
+              <li class="nav-item dropdown subTitle navmargin ">
                 <div
-                  class="nav-link dropdown-toggle"
+                  class="nav-link dropdown-toggle navdropdown"
                   role="button"
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
@@ -49,61 +49,43 @@ function Main() {
                 </div>
                 <ul class="dropdown-menu">
                   <li>
-                    <div class="nav-link  mainNavbg" aria-current="page">
-                      <Link
-                        class="mainNavbg align-middle subTitle"
-                        to="/water-heater"
-                      >
+                    <div class="nav-link  navdropdown" aria-current="page">
+                      <Link class="mainNavbg " to="/water-heater">
                         Water Heater
                       </Link>
                     </div>
                   </li>
                   <li>
-                    <div class="nav-link  mainNavbg" aria-current="page">
-                      <Link
-                        class="mainNavbg align-middle subTitle"
-                        to="/duct-sealing"
-                      >
+                    <div class="nav-link  navdropdown" aria-current="page">
+                      <Link class="mainNavbg  " to="/duct-sealing">
                         Duct Sealing
                       </Link>
                     </div>
                   </li>
                   <li>
-                    <div class="nav-link  mainNavbg" aria-current="page">
-                      <Link
-                        class="mainNavbg align-middle subTitle"
-                        to="/air-conditioning"
-                      >
+                    <div class="nav-link  navdropdown" aria-current="page">
+                      <Link class="mainNavbg  " to="/air-conditioning">
                         Air Conditioning
                       </Link>
                     </div>
                   </li>
                   <li>
-                    <div class="nav-link  mainNavbg" aria-current="page">
-                      <Link
-                        class="mainNavbg align-middle subTitle"
-                        to="/heat-pump"
-                      >
+                    <div class="nav-link  navdropdown" aria-current="page">
+                      <Link class="mainNavbg " to="/heat-pump">
                         Heat Pump
                       </Link>
                     </div>
                   </li>
                   <li>
-                    <div class="nav-link  mainNavbg" aria-current="page">
-                      <Link
-                        class="mainNavbg align-middle subTitle"
-                        to="/Fuel-cell"
-                      >
+                    <div class="nav-link  navdropdown" aria-current="page">
+                      <Link class="mainNavbg  " to="/Fuel-cell">
                         Fuel Cell
                       </Link>
                     </div>
                   </li>
                   <li>
-                    <div class="nav-link  mainNavbg" aria-current="page">
-                      <Link
-                        class="mainNavbg align-middle subTitle"
-                        to="/solar-panel"
-                      >
+                    <div class="nav-link navdropdown" aria-current="page">
+                      <Link class="mainNavbg  " to="/solar-panel">
                         Solar Panel
                       </Link>
                     </div>

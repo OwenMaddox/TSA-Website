@@ -1,7 +1,7 @@
 /* Required Classes */
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: rgb(255, 255, 255);
+  background-color: rgba(255, 245, 226, 0.644);
 }
 .App,
 .align {
@@ -109,15 +109,37 @@ body {
   text-align: center;
   background-color: rgba(108, 173, 62, 0);
 }
+.navdropdown {
+  color: #3b3b3b;
+  text-decoration: none;
+  z-index: 1;
+  text-align: center;
+  background-color: rgba(108, 173, 62, 0);
+}
+.navdropdown:hover {
+  color: #3b3b3b;
+  background-color: rgba(99, 99, 99, 0.411);
+}
+.dropdownbg {
+  color: #3b3b3b;
+  text-decoration: none;
+  z-index: 1;
+  text-align: center;
+  background-color: rgba(108, 173, 62, 0);
+}
+.dropdownbg:hover {
+  color: #3b3b3b;
+  background-color: rgba(99, 99, 99, 0.411);
+}
 .Navbarbg {
-  color: #4CBB17;
+  color: #ffffff;
   text-decoration: none;
   z-index: 1;
   text-align: center;
   background-color: rgb(152, 123, 94);
 }
 .Navbarbg:hover {
-  color: rgb(80, 80, 80);
+  color: rgb(210, 255, 158);
 }
 .navHeight {
   height: 80px;

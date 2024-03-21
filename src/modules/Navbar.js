@@ -35,9 +35,9 @@ function Navbar(props) {
                 </Link>
               </div>
             </li>
-            <li class="nav-item dropdown subTitle navmargin">
+            <li class="nav-item dropdown subTitle navmargin ">
               <div
-                class="nav-link dropdown-toggle "
+                class="nav-link dropdown-toggle Navbarbg"
                 role="button"
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
@@ -46,42 +46,42 @@ function Navbar(props) {
               </div>
               <ul class="dropdown-menu">
                 <li>
-                  <div class="nav-link  mainNavbg" aria-current="page">
+                  <div class="nav-link  dropdownbg" aria-current="page">
                     <Link class="mainNavbg " to="/water-heater">
                       Water Heater
                     </Link>
                   </div>
                 </li>
                 <li>
-                  <div class="nav-link  mainNavbg" aria-current="page">
+                  <div class="nav-link  dropdownbg" aria-current="page">
                     <Link class="mainNavbg  " to="/duct-sealing">
                       Duct Sealing
                     </Link>
                   </div>
                 </li>
                 <li>
-                  <div class="nav-link  mainNavbg" aria-current="page">
+                  <div class="nav-link  dropdownbg" aria-current="page">
                     <Link class="mainNavbg  " to="/air-conditioning">
                       Air Conditioning
                     </Link>
                   </div>
                 </li>
                 <li>
-                  <div class="nav-link  mainNavbg" aria-current="page">
+                  <div class="nav-link  dropdownbg" aria-current="page">
                     <Link class="mainNavbg " to="/heat-pump">
                       Heat Pump
                     </Link>
                   </div>
                 </li>
                 <li>
-                  <div class="nav-link  mainNavbg" aria-current="page">
+                  <div class="nav-link  dropdownbg" aria-current="page">
                     <Link class="mainNavbg  " to="/Fuel-cell">
                       Fuel Cell
                     </Link>
                   </div>
                 </li>
                 <li>
-                  <div class="nav-link mainNavbg" aria-current="page">
+                  <div class="nav-link dropdownbg" aria-current="page">
                     <Link class="mainNavbg  " to="/solar-panel">
                       Solar Panel
                     </Link>
