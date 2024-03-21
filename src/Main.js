@@ -119,13 +119,12 @@ function Main() {
               <h1 className="title fs-1">The Clean Energy Home Guide</h1>
               <div className="col  fs-4">
                 Whether you're an eco-enthusiast or just beginning to walk the
-                path of sustainability, you can find comprehensive resources
+                path of sustainability, you can find comprehensive summaries and resources
                 here to navigate the world of clean energy solutions for your
-                household. We also provide transparent breakdowns, highlight
-                potential tax incentives, and help you make informed decisions
-                that benefit both the environment and your budget. But we're
-                here to fill you with practical knowledge and actionable steps
-                towards a cleaner, greener home.
+                household. This site also provides transparent breakdowns, highlight
+                potential tax incentives, and helps an avid learner make informed decisions
+                that benefit both the environment and your budget. Through the application of
+                practical knowledge and actionable steps, a cleaner, greener home has never been easier.
               </div>
             </div>
           </div>
@@ -152,7 +151,7 @@ function Main() {
               class="bi bi-funnel-fill"
               d="M1.5 1.5A.5.5 0 0 1 2 1h12a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.128.334L10 8.692V13.5a.5.5 0 0 1-.342.474l-3 1A.5.5 0 0 1 6 14.5V8.692L1.628 3.834A.5.5 0 0 1 1.5 3.5z"
               backTitle="Duct Sealing"
-              backDescription="Along with its energy saving benefits sealing household ducts helps to improve indoor air quality by reducing the risk of pollutants entering ducts and circulating through your home."
+              backDescription="Along with its energy saving benefits, proper management of household ducts helps to improve indoor air quality by reducing the risk of pollutants entering ducts and circulating through your home."
               link="/duct-sealing"
             ></Card>
           </div>

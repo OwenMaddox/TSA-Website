@@ -23,12 +23,10 @@ function FuelCell(props) {
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
               A household fuel cell works by using hydrogen to cleanly and
-              efficiently generate electricity. Because these fuel cells only
-              use hydrogen the only products that are created in the main
-              process are electricity, water, and heat. These fuel cells can be
-              used for a variety of situations and can be used to power many
-              things. Another positive is that they have almost none or no
-              emissions unlike their combustion engine counterparts.
+              efficiently generate electricity. These fuel cells only
+              use hydrogen as fuel towards electricity, water, and heat. Their versatility is not
+              to be understated and can be used for a variety of powered applications. Another positive is that they dispense next to 
+              or entirely no environmental emissions unlike their combustion engine counterparts.
             </div>
           </div>
         </div>

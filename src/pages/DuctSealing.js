@@ -22,10 +22,10 @@ function DuctSealing(props) {
         <div class="container text-center marginTop pb-4">
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
-              One of the biggest contributors towards wasted energy bills is
-              improperly sealed air ducts. If a households air ducts are
+              One of the biggest contributors towards wasted energy bills are
+              improperly sealed air ducts. If a household's air ducts are
               sealed incorrectly or if the insulation is improperly installed, much
-              of the air that is intended to be utilized is lost. Due of this, many
+              of the air that is intended to be utilized is lost. Due to this, many
               newer air duct systems are constructed within a conditioned space.
               If a specific room seems to be hotter or colder than others, then
               replacing the air ducts in the house may be a wise and

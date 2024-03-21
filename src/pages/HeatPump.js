@@ -34,7 +34,7 @@ function HeatPump(props) {
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
               A geothermal heat pump is used to transfer heat into and out of a
-              household by using the ground as a heat source and a heat sink.
+              household by using the ground to gather heat as well as dispense heat.
               This means that heat is traveling through the ground from a high
               temperature place to a low one or vice versa. Some models of these
               geothermal heat pump systems have additions built for even more
@@ -110,11 +110,11 @@ function HeatPump(props) {
           <div class="row mt-5">
             <h1 className="title">Ducted Air-Source Heat Pumps</h1>
             <div class="col title fs-5  leftrightpadding ">
-              With a ducted air-source heat pump or heating system a household
+              With a ducted air-source heat pump or heating system, a household
               is able to reduce the amount of electricity used for heating by
               65% compared to the average heating of a house furnace or boiler.
               These models of heat pumps are highly efficient and can dehumidify
-              a households air better than standard central air conditioners.
+              a household's air better than standard central air conditioners.
               This means that the amount of energy being used by a ducted heat
               pump uses less energy and allows for more cooling in the hotter
               months of the year.
@@ -124,11 +124,11 @@ function HeatPump(props) {
             <h1 className="title">Ductless Air-Source Heat Pumps</h1>
             <div class="col title fs-5  leftrightpadding ">
               If the household trying to install an air-source heat pump does
-              not have the necessary ducts to install the unit there is another
-              option, the ductless heat pump. These air-source pumps are
-              sometimes called mini-split heat pumps and they are able to hot
+              not have the necessary ducts to install the unit, ductless heat pumps provide
+              an effective alternative. These air-source pumps are
+              sometimes called mini-split heat pumps and they are able to circulate hot
               and cold water in its system instead of using the air around it.
-              However it still works like an air-source heat pump.
+              Functionally, these pumps behave very similarly to their air-sourced cousins.
             </div>
           </div>
         </div>

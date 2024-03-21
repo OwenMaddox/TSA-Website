@@ -23,13 +23,11 @@ function AirConditioning(props) {
         <div class="container text-center marginTop pb-4">
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
-              Most people can probably guess how an air conditioner works but
-              there are ways to reduce their energy usage so that they are
-              “greener” in a sense. Air conditioners work by cooling the home
+              The process of air conditioning is a commonly known process, nonetheless
+              there are ways to reduce energy usage towards a greener footprint. Air conditioners work by cooling the home
               using an evaporator and releasing the hot air outside of the
               household with a condenser. By switching to a higher efficiency
-              air conditioner and keeping the temperature on the system at a
-              lower number than usual, a household could reduce their energy
+              air conditioner and relying on the unit less for temperature moderation, a household could reduce their energy
               usage by 20% to 50%.
             </div>
           </div>

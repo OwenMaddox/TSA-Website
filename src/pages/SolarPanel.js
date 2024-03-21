@@ -22,12 +22,12 @@ function SolarPanel(props) {
         <div class="container text-center marginTop pb-4">
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
-              Solar panels are a good way to reduce the amount of energy a
-              household uses. But there are many components that have to be
-              taken into consideration before installing solar
-              panels. The largest factor to consider is roofing. Traditional shingles, roofing,
-              and roof trusses don’t qualify for the solar panel rebate,
-              however, solar roofing tiles and solar shingles do apply as
+              Solar panels are known to reduce the amount of energy a
+              household consumes. Yet, there are many components that have to be
+              taken into consideration prior to solar
+              panel installation. Namely, the roof on one's house should be considered. Certain materials or styles of roofing
+              may not qualify for rebate or allow for easy installation.
+              Solar roofing tiles and solar shingles, however, do apply as
               they are able to generate clean energy for the household.
             </div>
           </div>
