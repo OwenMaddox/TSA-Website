@@ -24,7 +24,7 @@ function DuctSealing(props) {
             <div class="col title fs-5  leftrightpadding marginTop">
               One of the biggest contributors towards wasted energy bills is
               improperly sealed air ducts. If a households air ducts are
-              sealed incorrectly or the insulation is improperly installed, much
+              sealed incorrectly or if the insulation is improperly installed, much
               of the air that is intended to be utilized is lost. Due of this, many
               newer air duct systems are constructed within a conditioned space.
               If a specific room seems to be hotter or colder than others, then

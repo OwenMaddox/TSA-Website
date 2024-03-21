@@ -24,10 +24,10 @@ function SolarPanel(props) {
             <div class="col title fs-5  leftrightpadding marginTop">
               Solar panels are a good way to reduce the amount of energy a
               household uses. But there are many components that have to be
-              taken into consideration before getting and installing solar
-              panels. The biggest being roofing. Traditional shingles, roofing,
+              taken into consideration before installing solar
+              panels. The largest factor to consider is roofing. Traditional shingles, roofing,
               and roof trusses don’t qualify for the solar panel rebate,
-              however, solar roofing tiles and solar shingles do apply because
+              however, solar roofing tiles and solar shingles do apply as
               they are able to generate clean energy for the household.
             </div>
           </div>
@@ -38,10 +38,10 @@ function SolarPanel(props) {
             <div className="col"></div>
             <div class="col-10 title  fs-5 te leftrightpadding marginTop">
               <ul>
-                Solar Panel installation is a costly investment, however with an
+                Solar Panel installation is a costly investment. However, with an
                 incentive rebate of 30% and the long-term saving of taxes and
                 electricity, homeowners are encouraged to take the solar route.
-                Solar PV systems cost about $3 per watt installed.
+                Solar PV systems typically cost about $3 per watt installed.
               </ul>
             </div>
             <div className="col"></div>

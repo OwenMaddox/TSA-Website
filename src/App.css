@@ -110,11 +110,11 @@ body {
   background-color: rgba(108, 173, 62, 0);
 }
 .Navbarbg {
-  color: #3b3b3b;
+  color: #4CBB17;
   text-decoration: none;
   z-index: 1;
   text-align: center;
-  background-color: rgb(41, 212, 235);
+  background-color: rgb(152, 123, 94);
 }
 .Navbarbg:hover {
   color: rgb(80, 80, 80);

@@ -177,11 +177,11 @@ function Main() {
           <div class="col">
             <Card
               title="Air Conditioning"
-              description="Air conditioning pulls air in from outside to cool the household down"
+              description="Air conditioning pulls air in from the outside to cool down the inside of the household."
               class="bi bi-wind"
               d="M12.5 2A2.5 2.5 0 0 0 10 4.5a.5.5 0 0 1-1 0A3.5 3.5 0 1 1 12.5 8H.5a.5.5 0 0 1 0-1h12a2.5 2.5 0 0 0 0-5m-7 1a1 1 0 0 0-1 1 .5.5 0 0 1-1 0 2 2 0 1 1 2 2h-5a.5.5 0 0 1 0-1h5a1 1 0 0 0 0-2M0 9.5A.5.5 0 0 1 .5 9h10.042a3 3 0 1 1-3 3 .5.5 0 0 1 1 0 2 2 0 1 0 2-2H.5a.5.5 0 0 1-.5-.5"
               backTitle="Air Conditioning"
-              backDescription="Energy efficient air conditioning works by reducing the humidity and temperature of the household using less energy than the average unit"
+              backDescription="Energy efficiency within an AC unit represents cooling/heating using less energy with equivalent or greater results than less efficient units. "
               link="/air-conditioning"
             ></Card>
           </div>
@@ -217,7 +217,7 @@ function Main() {
           <div class="col">
             <Card
               title="Solar Panel"
-              description="Solar Panels are a very clean and renewable source of energy."
+              description="Solar Panels are a very clean and renewable source of energy usable for a variety of applications."
               class="bi bi-sun"
               d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6m0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8M8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0m0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13m8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5M3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8m10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0m-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0m9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707M4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708"
               backTitle="Solar Panel"

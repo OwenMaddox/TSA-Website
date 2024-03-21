@@ -26,8 +26,8 @@ function WaterHeater(props) {
               A heat pump water heater has the ability to move the already
               existing heat from one place to another, instead of generating its
               own heat which uses more energy. This is 2-3 times more energy
-              efficient than the average household storage water heaters and
-              they operate at a lower cost as well. A water heater switch like
+              efficient than an average household's water heater, while also boasting
+              a lower operation cost. A water heater switch like
               this is able to save a household $300 to $500 per year on electric
               bills.
             </div>
@@ -78,12 +78,12 @@ function WaterHeater(props) {
         <div class="container text-center marginTop pb-4">
           <div class="row">
             <div class="col title fs-5  leftrightpadding marginTop">
-              A solar water heater is able to use the heat from the sun to
-              provide hot water for a household. This is ultimately 50 percent
+              A solar water heater is able to utilize the heat from the sun and transfer warmth
+               to provide hot water for a household. This is ultimately 50 percent
               more effective than the traditional household gas and electric
-              water heaters. These can save homeowners significantly on energy
-              bills and are good for the environment but are unfortunately
-              slower at heating water and it runs out much quicker on average.
+              water heaters. This method of water heating can save homeowners significant costs on energy
+              bills while simultaneously benefiting the environment. However, their performance
+              at heating water falls short of alternatives.
             </div>
           </div>
         </div>
